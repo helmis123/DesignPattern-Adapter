@@ -1,0 +1,19 @@
+{
+  "name": "helmi/strategy",
+  "description": "Stategy design pattern exemple",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "helmi",
+      "email": "helmi.dridi@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^7.2"
+  }
+}
